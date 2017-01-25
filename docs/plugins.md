@@ -96,7 +96,7 @@ exports.setup = function() {};
 
 /**
  * This is called before the test have been run but after the test framework has
- * been set up.  Analogous to a config file's `onPreare`.
+ * been set up.  Analogous to a config file's `onPrepare`.
  *
  * Very similar to using `setup`, but allows you to access framework-specific
  * variables/funtions (e.g. `jasmine.getEnv().addReporter()`)
